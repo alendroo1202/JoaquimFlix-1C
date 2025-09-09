@@ -46,7 +46,9 @@ img {
   display: flex;
   justify-content: center;
 }
-section {
-  padding-left: 20px;
-  padding-right: 20px;
-}
+
+<section class="categoria">
+  <h2>Filmes e séries</h2>
+  <div class="categoria-videos">
+  </div>
+</section>
